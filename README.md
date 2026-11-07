@@ -73,6 +73,4 @@ repository contents only, not the hosted service.
 ---
 
 Owned by [Nrupal Akolkar](https://nrupalakolkar.com) · Built with
-[Muse by Meta](https://muse.ai/join) (referral code **101EEK**) — join
-Muse, then redeem code 101EEK in Settings within 48 hours of joining and
-we both earn tokens.
+[Muse by Meta](https://muse.ai/join).

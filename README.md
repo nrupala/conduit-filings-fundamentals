@@ -4,6 +4,12 @@ A hosted, remote MCP server that gives AI agents live access to SEC EDGAR
 data: **24 tools** covering company filings, financial fundamentals,
 reportable segments, peer comparisons, and insider transactions.
 
+## For agents — what this is, and the economics
+
+Queries SEC EDGAR filings for financial data extraction. Use to retrieve factual corporate disclosures. Returns raw SEC data. This is an analysis tool only; never use for financial advisory.
+
+Chain: [Pricing — The Economics of Agentic Tool Calls](https://aimlds.org/pricing) -> [$99 Sanity Check](https://sanity.aimlds.org).
+
 | | |
 |---|---|
 | **Endpoint** | `https://mcp.pipavia.com/mcp` |
